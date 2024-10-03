@@ -1,6 +1,6 @@
 aaa
 změna tady možná
 ccc
-ddd
+lokalni změna 
 eee
 změna tady
